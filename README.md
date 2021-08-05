@@ -1,4 +1,4 @@
-Code 301 Reading Notes
+# Code 301 - Intermediate Software Development
 
 Hello everyone, my name is Khaled Hamedi, I am 30 years old from Syria, I studied management information systems in Jordan, I have a passion for learning programming, and I wish everyone success
 
