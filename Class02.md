@@ -105,3 +105,9 @@ whenever there is a change in their state or props
 **4. What are some examples of things that we could store in state?**
 
 we can use it with objects,arrays,colors,properties
+
+## Things I want to know more about
+
+1. When can I actually use state and how can I update it without problems?
+
+2. How do I deal with the state with the hooks or without the hooks?
