@@ -7,3 +7,4 @@ This site contains summaries of Code 301
 | **Name of labe** | **Link**           |
 | ---------------- | ------------------ |
 | **Class01**      | [Link](Class01.md) |
+| **Class02**      | [Link](Class02.md) |
