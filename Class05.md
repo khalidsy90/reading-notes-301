@@ -22,3 +22,7 @@ if my component depends on a data to render and show some results, then this dat
 **What does it mean to build a ‘static’ version of your application?**
 
 The easiest way is to build a version that takes your data model and renders the UI but has no interactivity. To build a static version of your app that renders your data model, you’ll want to build components that reuse other components and pass data using props.
+
+## Things I want to know more about
+
+I want to know more about lifecycle
