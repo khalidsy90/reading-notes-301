@@ -13,3 +13,4 @@ This site contains summaries of Code 301
 | **Class05**      | [Link](Class05.md) |
 | **Class06**      | [Link](Class06.md) |
 | **Class07**      | [Link](Class07.md) |
+| **Class08**      | [Link](Class08.md) |
